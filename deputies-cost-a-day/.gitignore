@@ -1,0 +1,7 @@
+.vscode
+env
+__pycache__
+files/
+!files/data/.gitkeep
+!files/archives/.gitkeep
+!files/img/.gitkeep

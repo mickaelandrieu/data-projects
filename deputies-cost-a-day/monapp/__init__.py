@@ -1,0 +1,1 @@
+from monapp.views import app
