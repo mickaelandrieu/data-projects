@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+*/env
+*/files/
+!*/files/data/.gitkeep
+!*/files/archives/.gitkeep
+!*/files/img/.gitkeep
+!*/files/profiles/.gitkeep
